@@ -4,7 +4,6 @@ Welcome to my portfolio! I'm an Information Technology student at K.C. College o
 
 ## 🔗 Live Sites
 - **Netlify**: [ayushchaurasia2611.netlify.app](https://ayushchaurasia2611.netlify.app/)
-- **GitHub Pages**: [ayushchaurasia2611.github.io](https://ayushchaurasia2611.github.io/)
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +35,7 @@ Welcome to my portfolio! I'm an Information Technology student at K.C. College o
 
 ## 📩 Get In Touch
 - **GitHub**: [AyushChaurasia2611](https://github.com/AyushChaurasia2611)
-- **Email**: [Your Email Here]
+- **Email**: [Ayushchaurasiya123456@gmail.com]
 
 ---
 Created with ❤️ by Ayush Chaurasia.
