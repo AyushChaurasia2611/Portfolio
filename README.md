@@ -1,4 +1,4 @@
-# 🚀 Ayush Chaurasia | Full-Stack Developer & Software Engineer
+# 🚀 Ayush Chaurasia | Full-Stack Developer & Software Engineer | Portfolio
 
 Welcome to my portfolio! I'm an Information Technology student at K.C. College of Engineering, passionate about building impactful solutions that bridge the gap between technology and user needs.
 
